@@ -11,7 +11,7 @@
 
 **A modern application for browsing and discovering research papers from multiple academic sources.**
 
-[Features](#features) • [Demo](#live-demo) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing) • [License](#license)
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing) • [License](#license)
 
 </div>
 
@@ -28,16 +28,7 @@
 - **🔖 Bookmarking**: Save papers for later reading
 - **📊 Citation Export**: Export citations in multiple formats
 
-</details>
 
-<details>
-<summary><h2>🎮 Live Demo</h2></summary>
-
-Try Research Scrolls live at: [https://research-scrolls.example.com](https://research-scrolls.example.com)
-
-![Research Scrolls Demo](https://i.imgur.com/placeholder.gif)
-
-</details>
 
 <details>
 <summary><h2>🚀 Installation</h2></summary>
