@@ -196,15 +196,6 @@ Research Scrolls is currently in active development. We are working on the follo
 
 </details>
 
-<details>
-<summary><h2>📬 Contact</h2></summary>
-
-- **Project Maintainer**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Discord**: [Join our community](https://discord.gg/example)
-
-</details>
 
 ---
 
