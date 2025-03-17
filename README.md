@@ -183,18 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 </details>
 
-<details>
-<summary><h2>📊 Project Status</h2></summary>
 
-Research Scrolls is currently in active development. We are working on the following features:
-
-- [ ] User accounts and personalized recommendations
-- [ ] Citation management system
-- [ ] PDF annotation tools
-- [ ] Research collaboration features
-- [ ] Mobile app versions
-
-</details>
 
 
 ---
